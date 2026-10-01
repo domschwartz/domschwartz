@@ -21,8 +21,8 @@ STATE OF THE   ^^^
     creating yourself and creating things."
     — Bob Dylan, Rolling Thunder Revue (2019)
 
-Current projects here tend to involve music, books, PKM,
-connecting tools, and building a personal Hugo site.
+Current projects here revolve around music, books, PKM,
+connecting tools, and building a personal Hugo website.
 
 ══════════════════════════════════════════════════════════════════════════════
 
